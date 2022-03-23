@@ -1,1 +1,1 @@
-# Simulacion2-Ejercicios
+# Simulacion2-EjerciciosClase
